@@ -18,4 +18,6 @@ git push -f origin rama
 
 --------------------------------------------
 No hace lo que buscamos -> Merge made by the 'recursive' strategy.
+----
+prueba de merge a develop, staging, master
 
